@@ -1,3 +1,5 @@
+// Queue Interface
+// @author Chris McDonald
 public interface Queue
 {
   public void enqueue(Object x);
